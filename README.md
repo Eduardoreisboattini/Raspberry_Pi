@@ -1,5 +1,5 @@
-# Raspberry_Pi
-Raspberry_Pi
+# Raspberry Pi
+
 Raspberry Pi is a series of small, affordable single-board computers developed by the Raspberry Pi Foundation, a UK-based charity. These computers are designed to promote learning about computer programming and electronics in an accessible and low-cost manner. 
 
 Here are some key points about Raspberry Pi:
